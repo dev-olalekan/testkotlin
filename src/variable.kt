@@ -18,8 +18,8 @@ fun main(){
     println("the minimum number value is: $integerMinvalue")*/
 
 //    byte data type
-    val  byteMaxvalue = Byte.MAX_VALUE
-    val byteMinvalue = Byte.MIN_VALUE
+    val  byteMaxvalue: Byte = Byte.MAX_VALUE
+    val byteMinvalue: Byte = Byte.MIN_VALUE
 
     println("the maximum byte value is : $byteMaxvalue")
     println("the minimum byte value is : $byteMinvalue")
