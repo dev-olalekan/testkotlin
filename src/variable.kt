@@ -32,11 +32,18 @@ fun main(){
     println("the minimun short value is : $shortMinvalue")*/
 
 //    LONG data type: 64-bit signed integer
-    val longMaxvalue: Long = Long.MAX_VALUE
+    /*val longMaxvalue: Long = Long.MAX_VALUE
     val longMinvalue: Long = Long.MIN_VALUE
 
      println("the maximun long value is : $longMaxvalue")
-     println("the minimun long value is : $longMinvalue")
+     println("the minimun long value is : $longMinvalue")*/
+
+// float data type === F must be at the end to make it float
+
+    val myNumber: Float = 2.4F  /*float number*/
+    val mySecondnumber  = 2.9 /*double number */
+
+    println("my first number is : $myNumber and my second number is : $mySecondnumber")
 }
 
 
