@@ -11,11 +11,18 @@ fun main(){
     println("hello $userName your new age is  ${age + 1} " )*/
 
 //    integer data type
-    val integerMaxvalue = Int.MAX_VALUE
+    /*val integerMaxvalue = Int.MAX_VALUE
     val integerMinvalue = Int.MIN_VALUE
 
     println("the maximum number value is : $integerMaxvalue")
-    println("the minimum number value is: $integerMinvalue")
+    println("the minimum number value is: $integerMinvalue")*/
+
+//    byte data type
+    val  byteMaxvalue = Byte.MAX_VALUE
+    val byteMinvalue = Byte.MIN_VALUE
+
+    println("the maximum byte value is : $byteMaxvalue")
+    println("the minimum byte value is : $byteMinvalue")
 }
 
 
