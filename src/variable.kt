@@ -17,19 +17,20 @@ fun main(){
     println("the maximum number value is : $integerMaxvalue")
     println("the minimum number value is: $integerMinvalue")*/
 
-//    byte data type: 8-bit signed integer
+//    byte data type
     /*val  byteMaxvalue: Byte = Byte.MAX_VALUE
     val byteMinvalue: Byte = Byte.MIN_VALUE
 
     println("the maximum byte value is : $byteMaxvalue")
     println("the minimum byte value is : $byteMinvalue")*/
 
-//    SHORT data type: 16-bit signed integer
+//    SHORT data type
     /*val shortMaxvalue: Short = Short.MAX_VALUE
     val shortMinvalue: Short = Short.MIN_VALUE
 
     println("the maximun short value is : $shortMaxvalue")
     println("the minimun short value is : $shortMinvalue")*/
+
 
 //    LONG data type: 64-bit signed integer
     /*val longMaxvalue: Long = Long.MAX_VALUE
