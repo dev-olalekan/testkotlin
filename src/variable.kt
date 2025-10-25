@@ -41,10 +41,18 @@ fun main(){
 
 // float data type === F must be at the end to make it float
 
-    val myNumber: Float = 2.4F  /*float number*/
-    val mySecondnumber  = 2.9 /*double number */
+    /*val myNumber: Float = 2.4F  *//*float number*//*
+    val mySecondnumber  = 2.9 *//*double number *//*
 
-    println("my first number is : $myNumber and my second number is : $mySecondnumber")
+    println("my first number is : $myNumber and my second number is : $mySecondnumber")*/
+
+//    char data type === for a single chracter and single quotation
+    /*val myChar: Char = 'h'
+    println("$myChar")*/
+
+//    Boolean data type === true or false
+    val myBoolean: Boolean = true
+    println(myBoolean)
 }
 
 
