@@ -28,13 +28,32 @@ fun main(){
 
 //    incrementation prefix and post fix
 
-    var x = 0
+    /*var x = 0
     println("x++ = ${x++}")
     println(x)
     println("++x = ${++x}")
     println(x)
 
     println("${x--}")
-    println("${--x}")
+    println("${--x}")*/
 
+//    control flow statement
+
+    /*val isActive =  false
+    if(isActive){
+        println("the condition is true")
+    }else{
+        println("the condition is false")
+    }*/
+
+//    control flow using else
+    val myNumber = 4
+    if(myNumber >= 5){
+        println("the number is greater than 5")
+    }else if(myNumber >=4){
+        println("the number is greater than 4")
+    }else{
+        println("the condition is false")
+    }
 }
+
