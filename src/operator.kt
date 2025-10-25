@@ -1,0 +1,40 @@
+fun main(){
+    /*val x = 3
+    val y = 5
+
+    val result = x + y
+    println("the answer is: $result")*/
+
+//    operator
+   /* val x = 3
+    val y = 4
+
+    println("x + y = ${x + y}")
+    println("x - y = ${x - y}")
+    println("x * y = ${x * y}")
+    println("x / y = ${x / y}")
+    println("x % y = ${x % y}")*/
+
+//    to use another varible
+   /* var x = 3
+    var y = 5
+    var result = x + y
+
+    result += 2
+    println("result is: = $result" )
+
+    result = result - 2
+    println("result is: $result")*/
+
+//    incrementation prefix and post fix
+
+    var x = 0
+    println("x++ = ${x++}")
+    println(x)
+    println("++x = ${++x}")
+    println(x)
+
+    println("${x--}")
+    println("${--x}")
+
+}
