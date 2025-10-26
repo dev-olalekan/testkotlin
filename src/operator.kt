@@ -68,11 +68,21 @@ fun main(){
     }*/
 
 //    negating a boolean
+//    val isActive = true
+//    if(!isActive){
+//        println("the users is active")
+//    }else{
+//        println("the users is not active")
+//    }
+
+//    more on logical operator
     val isActive = true
-    if(!isActive){
-        println("the users is active")
+    val score = 80
+
+    if(isActive && score == 100){
+        println("you are at the next level")
     }else{
-        println("the users is not active")
+        println("you are on the same level")
     }
 }
 
