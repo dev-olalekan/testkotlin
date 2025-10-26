@@ -51,8 +51,10 @@ fun main(){
     println("$myChar")*/
 
 //    Boolean data type === true or false
-    val myBoolean: Boolean = true
-    println(myBoolean)
+   /* val myBoolean: Boolean = true
+    println(myBoolean)*/
+
+
 }
 
 

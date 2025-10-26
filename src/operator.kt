@@ -47,13 +47,24 @@ fun main(){
     }*/
 
 //    control flow using else
-    val myNumber = 4
+    /*val myNumber = 4
     if(myNumber >= 5){
         println("the number is greater than 5")
     }else if(myNumber >=4){
         println("the number is greater than 4")
     }else{
         println("the condition is false")
+    }*/
+
+//    more on opeator
+
+    val myNumber = 150
+    if(myNumber != 150){
+        println("less than 150")
+    }else if(myNumber <= 150){
+        println("less than or equal to 150")
+    }else{
+        println("all the condition has failed")
     }
 }
 
