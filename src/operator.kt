@@ -70,9 +70,9 @@ fun main(){
 //    negating a boolean
     val isActive = true
     if(!isActive){
-        println("the user is active")
+        println("the users is active")
     }else{
-        println("the user is not active")
+        println("the users is not active")
     }
 }
 
