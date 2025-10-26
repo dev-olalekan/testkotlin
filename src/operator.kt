@@ -58,13 +58,21 @@ fun main(){
 
 //    more on opeator
 
-    val myNumber = 150
+   /* val myNumber = 150
     if(myNumber != 150){
         println("less than 150")
     }else if(myNumber <= 150){
         println("less than or equal to 150")
     }else{
         println("all the condition has failed")
+    }*/
+
+//    negating a boolean
+    val isActive = true
+    if(!isActive){
+        println("the users is active")
+    }else{
+        println("the users is not active")
     }
 }
 
